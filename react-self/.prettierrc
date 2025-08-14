@@ -1,0 +1,8 @@
+{
+  "printWidth": 100,         // 한 줄 최대 길이
+  "tabWidth": 2,             // 들여쓰기 너비
+  "trailingComma": "all",    // 가능한 곳에 쉼표 추가
+  "singleQuote": true,       // 작은따옴표 사용
+  "jsxSingleQuote": true,    // JSX에서도 작은따옴표 사용
+  "semi": true               // 문장 끝 세미콜론 추가
+}
